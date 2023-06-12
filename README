@@ -1,0 +1,2 @@
+//the software doesn't contain the file .wav you can download a file music without copyright and paste it in the folder source/repos/ReproduceMusic/bin
+//You can find this song in jamendo.com download from it and convert in .wav than copy the name of file and paste in Form1.cs Sound(".wav")
